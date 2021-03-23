@@ -3,6 +3,7 @@
 Imprime las variables del entorno *ANDROID* en TERMUX:
 
 ```
+
 $ apt install printenv
 $ pintenv
 
