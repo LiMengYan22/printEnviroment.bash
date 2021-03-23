@@ -1,17 +1,13 @@
-# TERMUX
-**TERMUX** REPO CLEAN FILES..  ║▌║█║𝖉𝖔𝖕𝖆𝖒𝖎𝖓𝖆 ▌│█│║
+**TERMUX** 
+## Print Enviroment
+Imprime las variables del entorno *ANDROID* en TERMUX:
 
 ```
-Check: [Repo!!](https://yanlimeng.github.io/TERMUX) 
-```
+$ apt install printenv
+$ pintenv
 
 ```
- __    _ _____             __ __         
-|  |  |_|     |___ ___ ___|  |  |___ ___ 
-|  |__| | | | | -_|   | . |_   _| .'|   |
-|_____|_|_|_|_|___|_|_|_  | |_| |__,|_|_|
-                      |___|              
-```
-
 <hr>
+
+![photo6021827338116903469](https://user-images.githubusercontent.com/80227002/112147433-00a86000-8bdd-11eb-8c28-f3548b16a482.jpg)
 
